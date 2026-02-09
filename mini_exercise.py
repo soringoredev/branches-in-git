@@ -3,5 +3,6 @@ b = int(input('Al doilea numar: '))
 
 print('Suma este:', a + b)
 print('Diferenta:', a - b)
+print('noroc')
 print('Multiply: ', a * b)
 print('Devision:', a / b)
