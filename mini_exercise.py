@@ -2,3 +2,4 @@ a = int(input('Primul numar: '))
 b = int(input('Al doilea numar: '))
 
 print('Suma este:', a + b)
+print('Diferenta:', a - b)
