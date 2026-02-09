@@ -3,3 +3,4 @@ b = int(input('Al doilea numar: '))
 
 print('Suma este:', a + b)
 print('Diferenta:', a - b)
+print('Multiply: ', a * b)
